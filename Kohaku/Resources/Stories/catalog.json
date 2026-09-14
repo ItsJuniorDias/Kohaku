@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "stories": [
+    {"id": "the-coil", "publishedAt": "2026-08-27", "isPremium": false},
+    {"id": "the-well", "publishedAt": "2026-09-03", "isPremium": true},
+    {"id": "the-second-skin", "publishedAt": "2026-09-10", "isPremium": true},
+    {"id": "the-weight", "publishedAt": "2026-09-17", "isPremium": true},
+    {"id": "the-reader", "publishedAt": "2026-09-24", "isPremium": true},
+    {"id": "the-chorus", "publishedAt": "2026-10-01", "isPremium": true},
+    {"id": "the-bathymetry", "publishedAt": "2026-10-08", "isPremium": true},
+    {"id": "the-astronomers-daughter", "publishedAt": "2026-10-15", "isPremium": true},
+    {"id": "the-descent", "publishedAt": "2026-10-22", "isPremium": true},
+    {"id": "the-signal", "publishedAt": "2026-10-29", "isPremium": true},
+    {"id": "the-quiet-house", "publishedAt": "2026-11-05", "isPremium": true},
+    {"id": "the-neighbor", "publishedAt": "2026-11-12", "isPremium": true},
+    {"id": "the-second-door", "publishedAt": "2026-11-19", "isPremium": true},
+    {"id": "the-photograph", "publishedAt": "2026-11-26", "isPremium": true},
+    {"id": "the-kitchen-light", "publishedAt": "2026-12-03", "isPremium": true},
+    {"id": "the-letter", "publishedAt": "2026-12-10", "isPremium": true},
+    {"id": "the-voicemail", "publishedAt": "2026-12-17", "isPremium": true},
+    {"id": "the-reunion", "publishedAt": "2026-12-24", "isPremium": true},
+    {"id": "the-old-room", "publishedAt": "2026-12-31", "isPremium": true},
+    {"id": "the-diary", "publishedAt": "2027-01-07", "isPremium": true},
+    {"id": "the-bridge", "publishedAt": "2027-01-14", "isPremium": true},
+    {"id": "the-line", "publishedAt": "2027-01-21", "isPremium": true},
+    {"id": "the-room-behind-the-wall", "publishedAt": "2027-01-28", "isPremium": true},
+    {"id": "the-waiting-room", "publishedAt": "2027-02-04", "isPremium": true},
+    {"id": "the-ferry", "publishedAt": "2027-02-11", "isPremium": true}
+  ]
+}

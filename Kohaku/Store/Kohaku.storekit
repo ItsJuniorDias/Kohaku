@@ -1,0 +1,73 @@
+{
+  "identifier" : "kohaku-storekit-config",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_applicationInternalID" : "0000000000",
+    "_developerTeamID" : "0000000000",
+    "_lastSynchronizedDate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "kohaku-subscription-group",
+      "localizations" : [
+        {
+          "description" : "Kohaku premium subscription",
+          "displayName" : "Kohaku",
+          "locale" : "en_US"
+        }
+      ],
+      "name" : "Kohaku Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "SUB001",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access all tales, updated weekly.",
+              "displayName" : "Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.alexandrejunior.kohaku.subscription.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Kohaku Monthly",
+          "subscriptionGroupID" : "kohaku-subscription-group",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        },
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "24.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "SUB002",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access all tales, updated weekly. Save 30%.",
+              "displayName" : "Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.alexandrejunior.kohaku.subscription.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Kohaku Yearly",
+          "subscriptionGroupID" : "kohaku-subscription-group",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
